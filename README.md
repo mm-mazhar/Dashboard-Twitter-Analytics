@@ -4,6 +4,8 @@ This is a simple example of TwitterAPI/dash/plotly deployment on server using fl
 
 ### Commands
 ```
+Twitter API Credentials: Get credentials from https://developer.twitter.com and put them in 'config.ini' file
+
 1. `git clone https://github.com/mazqoty/Dashboard-Twitter-Analytics.git`
 2. Create Environment: 'python -m venv <environment_name>'
 3. Activate Environment: `source <environment_name>/bin/activate` or `source <environment_name>/Scripts/activate.bat`
