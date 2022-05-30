@@ -24,17 +24,8 @@ If you built it via docker-compose visit: http://127.0.0.1:5000/
 
 ### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
 
-![Image 1][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/ZT3g72N.jpg)
-![Image 2][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/M6FcMEz.jpg)
-![Image 3][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/I6SdTYe.jpg)
-![Image 4][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/XA5lU1F.jpg)
-
-<table style="width:100%">
-  <tr>
-    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="450px" height=225px/></td>
-  </tr>
-</table>
+![https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/ZT3g72N.jpg)
+![https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/M6FcMEz.jpg)
+![https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/I6SdTYe.jpg)
+![https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/XA5lU1F.jpg)
 
