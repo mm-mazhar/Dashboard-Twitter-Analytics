@@ -1,4 +1,4 @@
-## TwitterAPI/dash/plotly deployment on server, simple example
+## TwitterAPI/dash/plotly, A simple example
 
 This is a simple example of TwitterAPI/dash/plotly deployment on server using flask, gunicorn and docker
 
