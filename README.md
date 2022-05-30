@@ -15,9 +15,6 @@ Twitter API Credentials: Get credentials from https://developer.twitter.com and 
 Then, If you built it localy visit: 127.0.0.1:8050
 
 
-* [DASHBOARD Twitter Dash Plotly App](https://github.com/mazqoty/Dashboard-Twitter-Analytics)
-This is simple example of twitter API implementation to extract on going twitter trends in different countries, recent searches, user's info, and user's tweet. This dashboard is made only for educational purpose.
-
 <table style="width:100%">
   <tr>
     <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="450px" height=225px/></td>
