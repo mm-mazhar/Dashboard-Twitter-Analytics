@@ -13,6 +13,14 @@ Twitter API Credentials: Get credentials from https://developer.twitter.com and 
 5. Run: `python appTabs.py
 ```
 Then, If you built it localy visit: 127.0.0.1:8050
+For deployment on server use gunicorn and docker:
+```
+`Build via docker compose: docker-compose up`
+To Rebuild: `docker-compose down && docker-compose up --build`
+If you built it via docker-compose visit: http://127.0.0.1:5000/
+```
+If you built it via docker-compose visit: http://127.0.0.1:5000/
+```
 
 ### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
 
@@ -24,5 +32,4 @@ Then, If you built it localy visit: 127.0.0.1:8050
     <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="450px" height=225px/></td>
   </tr>
 </table>
-
 
