@@ -15,7 +15,7 @@ Twitter API Credentials: Get credentials from https://developer.twitter.com and 
 Then, If you built it localy visit: 127.0.0.1:8050
 For deployment on server use gunicorn and docker:
 ```
-`Build via docker compose: docker-compose up`
+Build via docker compose: `docker-compose up`
 To Rebuild: `docker-compose down && docker-compose up --build`
 If you built it via docker-compose visit: http://127.0.0.1:5000/
 ```
@@ -24,6 +24,10 @@ If you built it via docker-compose visit: http://127.0.0.1:5000/
 
 ### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
 
+![Image 1][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/ZT3g72N.jpg)
+![Image 2][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/M6FcMEz.jpg)
+![Image 3][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/I6SdTYe.jpg)
+![Image 4][https://i.imgur.com/ZT3g72N.jpg](https://i.imgur.com/XA5lU1F.jpg)
 
 <table style="width:100%">
   <tr>
