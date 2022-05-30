@@ -4,7 +4,7 @@ This is a simple example of TwitterAPI/dash/plotly deployment on server using fl
 
 ### Commands
 ```
-1. `git clone https://github.com/mazqoty/Dashboard-TwitterAPIDashPlotly.git`
+1. `git clone https://github.com/mazqoty/Dashboard-Twitter-Analytics.git`
 2. 'python -m venv <environment_name>'
 3. `pip install -r requirements.txt`
 4. `python appTabs.py
