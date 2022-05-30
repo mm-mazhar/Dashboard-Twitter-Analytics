@@ -14,7 +14,7 @@ Twitter API Credentials: Get credentials from https://developer.twitter.com and 
 ```
 Then, If you built it localy visit: 127.0.0.1:8050
 
-#### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
+### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
 
 <table style="width:100%">
   <tr>
