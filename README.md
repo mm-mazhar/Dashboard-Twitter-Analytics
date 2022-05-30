@@ -24,6 +24,7 @@ If you built it via docker-compose visit: http://127.0.0.1:5000/
 
 ### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
 
+
 <table style="width:100%">
   <tr>
     <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="450px" height=225px/></td>
