@@ -21,7 +21,7 @@ If you built it via docker-compose visit: http://127.0.0.1:5000/
 visit: http://127.0.0.1:5000/
 ```
 
-### See it on [Heroku](https://twitteranalyticsdashapp.herokuapp.com/)
+### See it on [Render](https://dashboard-twitter-analytics.onrender.com/)
 
 <table style="width:100%">
   <tr>
@@ -30,9 +30,6 @@ visit: http://127.0.0.1:5000/
     <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="450px" height=225px/></td>
     <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="450px" height=225px/></td>
   </tr>
-<<<<<<< HEAD
-</table>
-=======
+
 </table>
 
->>>>>>> 0421c7593a13f21beeee7a508d7c5cfadb1d96d1
