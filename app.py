@@ -38,3 +38,7 @@ server = app.server
 
 # The way gunicorn works import following to avoid circular imports
 import appTabs
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0421c7593a13f21beeee7a508d7c5cfadb1d96d1
