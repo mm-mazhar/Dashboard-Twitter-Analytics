@@ -1,0 +1,16 @@
+envtwitter/
+requirements1.txt
+requirements2.txt
+twitterTrends.py
+test.py
+__pycache__/
+*.pyc
+venv
+*.pyc
+.env
+.DS_Store
+config.ini
+docker-compose.yml
+Dockerfile
+Procfile
+README.md
