@@ -60,5 +60,7 @@ def switch_tab(tab_chosen):
 
 
 if __name__ == '__main__':
-    app.run_server(debug = True, port = 8050)
-    
+    # for local
+    #app.run_server(debug = True, port = 8050)
+    #for docker
+    app.run_server()
