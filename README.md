@@ -25,10 +25,10 @@ visit: http://127.0.0.1:5000/
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="450px" height=225px/></td>
-    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="450px" height=225px/></td>
+    <td><img src="https://i.imgur.com/ZT3g72N.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/M6FcMEz.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/I6SdTYe.jpg" width="400px" height=225px/></td>
+    <td><img src="https://i.imgur.com/XA5lU1F.jpg" width="400px" height=225px/></td>
   </tr>
 
 </table>
