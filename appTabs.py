@@ -8,7 +8,11 @@ This file is to run when the app is run.
 import dash_bootstrap_components as dbc
 from dash import html
 from dash.dependencies import Output, Input
+<<<<<<< HEAD
+from app import app, server
+=======
 from app import app
+>>>>>>> 0421c7593a13f21beeee7a508d7c5cfadb1d96d1
 # Connect to the layout and callbacks of each tab
 from appTweetsSearch import tweetsSearch_layout
 from appTrends import trends_layout
@@ -63,5 +67,9 @@ if __name__ == '__main__':
     # for local
     #app.run_server(debug = True, port = 8050)
     #for docker
+<<<<<<< HEAD
+    app.run_server()
+=======
     app.run_server()
     
+>>>>>>> 0421c7593a13f21beeee7a508d7c5cfadb1d96d1
